@@ -1,0 +1,24 @@
+{
+  "name": "flappybird-javascript",
+  "version": "1.0.0",
+  "description": "The Snake game, created using JavaScript, and The HTML5 canvas.",
+  "main": "flappyBird.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeExplainedRepo/FlappyBird-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeExplainedRepo/FlappyBird-JavaScript/issues"
+  },
+  "homepage": "https://github.com/CodeExplainedRepo/FlappyBird-JavaScript#readme",
+  "dependencies": {
+    "activ5-device": "^1.1.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4"
+  }
+}
