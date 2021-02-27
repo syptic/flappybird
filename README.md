@@ -1,7 +1,5 @@
 # FlappyBird-JavaScript
 
-The Snake game, created using JavaScript, and The HTML5 canvas.
+Flappybird, created using JavaScript, and The HTML5 canvas during SDHacks as part of the project to connect physiotherapy exercises with interactive games.
 
 Created using the starter template, and following the tutorial on youtube step by step.
-
-Tutorial link : https://www.youtube.com/watch?v=L07i4g-zhDA
